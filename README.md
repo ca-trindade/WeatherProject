@@ -25,7 +25,7 @@ Background Image:
 ### Clone this repository to your local machine.
 
 ```bash
-  git clone <https://github.com/ca-trindade/WeatherProject.git>
+  git clone https://github.com/ca-trindade/WeatherProject.git
 ```
 ### Navigate to the project directory.
 ```bash
@@ -44,7 +44,7 @@ Background Image:
 
 Sign up for an API key from OpenWeather if you don't already have one.
 
-Replace the {KEY} <YOUR_API_KEY> in the src/App.jsx file with your actual API key without {} and any spaces between in line 8.
+Replace the {KEY} in the src/App.jsx file with your actual API key without {} and any spaces between in line 8.
 
 Enter a city name in the input field and click the "Enter Location" button to fetch and display the current weather data for that city.
 

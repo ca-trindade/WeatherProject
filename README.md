@@ -25,7 +25,7 @@ Background Image:
 ### Clone this repository to your local machine.
 
 ```bash
-  git clone https://github.com/ca-trindade/WeatherProject.git
+  git clone https://github.com/ca-trindade/weatherProject.git
 ```
 ### Navigate to the project directory.
 ```bash
